@@ -1,0 +1,2 @@
+public class MethodReferencePractice1 {
+}
